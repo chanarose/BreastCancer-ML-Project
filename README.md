@@ -1,4 +1,10 @@
-# Kaggle Breast Cancer
+# 🧠 Kaggle Breast Cancer Diagnosis (ML Project)
+
+This is a collaborative machine learning project developed independently by myself and a colleague.  
+The project focuses on building interpretable models for predicting breast cancer diagnoses using the **Breast Cancer Wisconsin Diagnostic Dataset**.
+
+Our goal was to apply a full ML pipeline—from EDA and preprocessing to model training, explainability, and evaluation—while making the project easily reproducible via Google Colab.
+
 
 ## Quick start <a name="start"></a>
 
